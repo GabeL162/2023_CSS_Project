@@ -1,0 +1,21 @@
+.container{
+    width: 1200px;
+    margin: auto;
+    background-color: white;
+}
+.header{
+    width: inherit;
+    height: 200px;
+    background-color: red;
+}
+
+.nav{
+    width: 300px;
+    float: left;
+    height: 900px;
+    background-color: green;
+}
+.content{
+    width: inherit;
+    background-color: yellow;
+}
