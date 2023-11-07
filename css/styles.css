@@ -101,12 +101,30 @@ li a:hover{
 /* Content */
 .content{
     width: inherit;
-    height: 400px;
+    height: 1000px;
     background-color: yellow;
 }
 
 .img1{
-    width: 200px;
-    height: 200px;
+    width: auto;
+    height: auto;
     background-color: white;
+    float: left;
+    margin: 50px 50px 50px 100px;
+}
+
+.img2{
+    width: auto;
+    height: auto;
+    background-color: white;
+    float: left;
+    margin: 50px 50px 50px 150px;
+}
+
+.text{
+    width: auto;
+    height: auto;
+    background-color: yellow;
+    float: left;
+    margin: 0px 50px 50px 50px;
 }
